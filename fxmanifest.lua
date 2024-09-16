@@ -10,7 +10,7 @@ version '1.0.'
 -- What to run
 client_scripts {
     'config.lua',
-    'client/client.lua'
+    'client.lua'
 }
 
 export 'addNPC'
